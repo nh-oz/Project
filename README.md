@@ -6,4 +6,4 @@ yorum satırına aldığım qajobs_page2.py dosyasını aktifleştirebilirsiniz.
 
 
 Ayrıca aynı sayfada departman dropdown'unda Quality Assurance otomatik olarak sonradan sayfada yükleniyor ama ben yine de kod tarafında 
-tekrar listeden bu seçimi dropdown'dan yaptım.
+tekrar listeden bu seçimi dropdown'dan yaptımç
